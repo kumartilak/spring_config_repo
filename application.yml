@@ -1,0 +1,7 @@
+my:
+  greeting: hello world from config server
+
+db:
+  connection: connection-string-here-from-config-server
+  host: "151.4.4.3"
+  port: 4321
